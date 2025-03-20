@@ -8,7 +8,7 @@ public class basicTest {
 		int validNumber = 0;
 		int sum = 0;
 		int average;
-		int a = 0;
+		int a = 11;
 		
 		while((value[i]!=-999)&& inputNumber<100) {
 			inputNumber++;
