@@ -8,6 +8,9 @@ public class basicTest {
 		int validNumber = 0;
 		int sum = 0;
 		int average;
+
+
+		
 		while((value[i]!=-999)&& inputNumber<100) {
 			inputNumber++;
 			if(value[i]>=min && value[i]<=max) {
